@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+A Full Stack Software Engineer. 
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa3115/)
+[![My Website](https://img.shields.io/badge/Website-codexloopers-blue?style=for-the-badge)](https://codexloopers.com/)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa3115&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifa3115&show_icons=true&count_private=true)
+
+
 <!--
 **huzaifa3115/huzaifa3115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
